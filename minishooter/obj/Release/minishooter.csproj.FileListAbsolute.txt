@@ -22,3 +22,4 @@ D:\gamedev\minishooter\minishooter\obj\Release\minishooter.csproj.CoreCompileInp
 D:\gamedev\minishooter\minishooter\obj\Release\minishooter.csproj.CopyComplete
 D:\gamedev\minishooter\minishooter\obj\Release\minishooter.exe
 D:\gamedev\minishooter\minishooter\obj\Release\minishooter.pdb
+D:\gamedev\minishooter\minishooter\obj\Release\minishooter.csprojResolveAssemblyReference.cache
